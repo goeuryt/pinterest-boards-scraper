@@ -10,4 +10,3 @@ data/
 *.log
 .DS_Store
 config.py
-logs/

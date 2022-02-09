@@ -3,11 +3,11 @@ Fork of the repos https://github.com/ankitshekhawat/pinterest-scraper, this vers
 ## Requirements:
 
 - Python 3
-- Selenium (pip install selenium)
+- Selenium (pip3 install selenium)
 - [Chrome driver](https://sites.google.com/chromium.org/driver/downloads) ( Download and place in the directory) 
 - aria2c (a command line download utility)
 	- Mac: `brew install aria2`
-	- Ubuntu: `sudo apt-get install aria2`
+	- Ubuntu: `sudo apt install aria2`
 	- Centos/Fedora: `sudo yum install aria2`
 
 - A [Pinterest](http://www.pinterest.com) Account

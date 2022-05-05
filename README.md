@@ -17,4 +17,4 @@ Fork of the repos https://github.com/ankitshekhawat/pinterest-scraper, this vers
 - `mv ./config_sample.py ./config.py`
 - Add your username, password, pinterest URL, boards URL and output directory to config.py
 - Then execute:
-	- `./scraper.py`
+	- `./boards_scraper.py`

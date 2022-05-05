@@ -1,5 +1,5 @@
 # Pinterest Board Scraper
-Fork of the repos https://github.com/ankitshekhawat/pinterest-scraper, this version has automatic login and can scrap and download a list of Pinterest bourds and sub-boards.
+Fork of the repos https://github.com/ankitshekhawat/pinterest-scraper, this version has automatic login and can scrap and download a list of Pinterest boards and sub-boards.
 ## Requirements:
 
 - Python 3
